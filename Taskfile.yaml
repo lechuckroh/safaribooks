@@ -1,0 +1,6 @@
+version: '3'
+
+tasks:
+  gen-cookie:
+    cmds:
+      - bun gen_cookie.ts

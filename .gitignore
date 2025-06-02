@@ -9,8 +9,12 @@ __pycache__/
 Books/
 
 cookies.json
+cookie-quick-manager.json
 *.log
 *.txt
 *.code-workspace
 
 /venv
+
+node_modules/
+bun.lockb

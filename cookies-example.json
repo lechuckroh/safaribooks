@@ -1,8 +1,10 @@
 {
   "name": "Cookie",
-  "orm-jwt": "XXX",
-  "orm-rt": "XXX",
-  "_abck": "XXX",
-  "ak_bmsc": "XXX",
-  "bm_sv": "XXX"
+  "_abck": "",
+  "ak_bmsc": "",
+  "akaalb_LearningALB": "",
+  "bm_sv": "",
+  "bm_sz": "",
+  "orm-jwt": "",
+  "orm-rt": ""
 }
